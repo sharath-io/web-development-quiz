@@ -1,0 +1,14 @@
+.card-container .card{
+    color: var(--primary-color);
+}
+
+.categories {
+    text-align: center;
+    margin: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#explore-categories{
+    color: var(--primary-color);
+}
