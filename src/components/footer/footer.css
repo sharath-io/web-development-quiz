@@ -1,0 +1,15 @@
+.footer-class{
+    height: 6rem;
+    position: relative;
+    padding: 1rem;
+    bottom: 0;
+    background-color: var(--secondary-background);
+}
+
+.footer-items{
+    padding: 1rem;
+}
+
+.social-link{
+ color:var(--primary-color);
+}
