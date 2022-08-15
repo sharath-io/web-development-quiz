@@ -1,0 +1,26 @@
+.rules-section{
+    border: 0.1rem solid var(--primary-color);
+    height: 25rem;
+    width: 30rem; 
+    padding: 2rem;
+    box-sizing: border-box;
+    font-weight: bold;
+    color: var(--primary-color);
+    left: 50%;
+    margin: auto;
+}
+
+.rules-heading{
+    font-size: 2rem;
+    padding: 0.5rem;
+    text-decoration: underline;
+}
+
+.rules-list{
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+
+.start-quiz{
+    text-align: center;
+}
